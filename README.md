@@ -1,6 +1,6 @@
 # MON Distribution Tool
 
-使用智能合约进行MON代币分发
+在monad测试网上通过合约分发MON代币，也可适用于所有evm兼容的区块链，只需更改rpc地址
 
 ## 功能特性
 - 通过智能合约批量分发MON
