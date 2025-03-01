@@ -1,0 +1,2 @@
+web3>=7.8.0  # Web3 库
+PyYAML>=6.0  # yaml 库

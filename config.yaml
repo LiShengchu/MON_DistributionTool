@@ -1,0 +1,11 @@
+accounts:
+  main:
+    address: ''
+    private_key:
+  recipients:
+  - address: ''
+  - address: ''
+contractAddress: ''
+distribute_amount: 0.05
+network:
+  rpc_url: https://testnet-rpc.monad.xyz/
